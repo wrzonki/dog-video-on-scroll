@@ -6,3 +6,7 @@ node_modules
 .env
 .env.*
 !.env.example
+static/dog.mp4
+static/mix.mp4
+static/mix.zip
+static/img/mix
